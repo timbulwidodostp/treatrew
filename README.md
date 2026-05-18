@@ -1,6 +1,8 @@
 # treatrew
 Estimation of Average Treatment Effects by reweighting on propensity score Use treatrew With STATA 19
 
+https://www.youtube.com/watch?v=UQPydtFFHpo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
